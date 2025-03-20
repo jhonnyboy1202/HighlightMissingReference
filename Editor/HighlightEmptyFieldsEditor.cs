@@ -1,4 +1,4 @@
-/*using UnityEditor;
+using UnityEditor;
 using UnityEngine;
 
 [CustomEditor(typeof(MonoBehaviour), true)] // Replace MonoBehaviour with your specific class if needed
@@ -38,4 +38,3 @@ public class HighlightEmptyFieldsEditor : Editor
         serializedObject.ApplyModifiedProperties();
     }
 }
-*/
